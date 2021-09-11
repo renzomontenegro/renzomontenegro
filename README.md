@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @renzomontenegro
-- 👀 I’m interested in Fintech, blockchain and Decentralize Finance
+- 👀 I’m interested in Fintech, blockchain and Decentralized Finance
 - 🌱 I’m currently learning Python, C#, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on DeFi Proyects
 - 📫 How to reach me @RenzoMontenegr8 in Twitter
