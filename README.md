@@ -1,4 +1,4 @@
-# Luis Montenegro 👨‍💻
+# Renzo Montenegro 👨‍💻
 
 **Junior IT Business Development Analyst** | Lima, Peru
 
@@ -13,16 +13,16 @@ Systems engineer focused on automation and process optimization. I'm passionate 
 
 ## 💼 Currently
 
-Building automation systems at MailAmericas:
+Building automation systems at MailAmericas
 - Automated pre-alert workflows
-- API integrations (AFIP, MercadoLibre, Gmail)
+- API integrations (Including LLMs)
 - Process optimization
 
 ## 🎯 Interests
 
 - Business process automation
 - Cloud engineering & solutions architecture
-- Digital entrepreneurship
+- AI Solutions
 
 ## 📫 Connect
 
