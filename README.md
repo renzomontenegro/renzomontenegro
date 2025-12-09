@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @renzomontenegro
-- 👀 I’m interested in Fintech, blockchain and Decentralized Finance
-- 🌱 I’m currently learning Python, C#, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on DeFi Proyects
-- 📫 How to reach me @RenzoMontenegr8 in Twitter
+# Luis Montenegro 👨‍💻
 
-<!---
-renzomontenegro/renzomontenegro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Junior IT Business Development Analyst** | Lima, Peru
+
+Systems engineer focused on automation and process optimization. I'm passionate about building scalable solutions that simplify workflows.
+
+## 🛠️ Tech Stack
+
+- **Automation**: n8n, Python
+- **Databases**: SQL (query optimization)
+- **Integrations**: REST APIs, webhooks
+- **Cloud**: Exploring AWS
+
+## 💼 Currently
+
+Building automation systems at MailAmericas:
+- Automated pre-alert workflows
+- API integrations (AFIP, MercadoLibre, Gmail)
+- Process optimization
+
+## 🎯 Interests
+
+- Business process automation
+- Cloud engineering & solutions architecture
+- Digital entrepreneurship
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/renzomontenegro/)
+
+---
+
+*"University valedictorian turned serial automator"*
